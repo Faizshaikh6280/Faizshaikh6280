@@ -1,6 +1,5 @@
-  Hi 👋 !
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Web+Developer..;Javascript+Developer..;UI%2FUX+Designer)](https://git.io/typing-svg)
-- 👀 My name is Faiz
+-   Hi 👋 ! I'm Faiz
 - 🌱 I’m currently learning about advanced JavaScipt
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me ?

@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Web+Developer..;Javascript+Developer..;UI%2FUX+Designer)](https://git.io/typing-svg)
 -   Hi 👋 ! I'm Faiz
-- 🌱 I’m currently learning ReactJs from Joans Schedtman at Udemy.
+- 🌱 I have a good knowledge of HTMl5 CSS3 Tailwind JavaScript and React.
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me ?
 - Contact no : 6280465951 (whats'app or call )

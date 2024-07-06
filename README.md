@@ -6,6 +6,7 @@
 - Contact no : +91 6280465951 (whats'app or call )
 - Email : faizalam2432005@gmail.com
 - Instagram at @codewithfaiz
+- Find my all links : https://bio.link/faizshaikh
 <!---
 Faizshaikh6280/Faizshaikh6280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Web+Developer;Reactjs+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E216&random=false&width=435&lines=MERN+Stack+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
 -   Hi 👋 ! I'm Faiz
 - 🌱 I have a good knowledge of HTMl5 CSS3 Tailwind JavaScript and React.
 - 💞️ I’m looking to collaborate on Frontend Projects

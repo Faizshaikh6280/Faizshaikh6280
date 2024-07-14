@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E216&random=false&width=435&lines=MERN+Stack+Developer;Full+Stack+Developer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41E10D&random=false&width=435&lines=MERN+Stack+Developer+;Nextjs+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
 -   Hi 👋 ! I'm Faiz Alam
 - 🌱 I have an expertise in React ecosystem , Node enviroment and Expressjs and Mongodb and Tailwind.
 - 💞️ Looking to collaborate on Full stack or Frontend Projects ? 

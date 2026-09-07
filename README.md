@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=41E10D&random=false&width=435&lines=MERN+Stack+Developer+;Nextjs+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5CF700&width=435&lines=Full+Stack+AI+Engineer;Agentic+AI+Engineer;Software+Engineer+)](https://git.io/typing-svg)
 -   Hi 👋 ! I'm Faiz Alam
 - 🌱 I have an expertise in React & Nextjs Development.
 - 🤝 Looking to collaborate on Full stack or Frontend Projects ? 
